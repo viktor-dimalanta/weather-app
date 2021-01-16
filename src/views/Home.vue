@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img class="homepageLogo" src ="https://www.iosicongallery.com/icons/weather-2017-06-19/512.png"/>
+    <img class="homepageLogo" src ="https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png"/>
     <SearchBar/>
     <DayForecastTab/>
     <Weather/>
@@ -26,7 +26,7 @@ export default {
 <style scoped lang="scss">
 .homepageLogo {
   padding-top: 1%;
-  width: 20%;
+  width: 12%;
 }
 </style>
 
