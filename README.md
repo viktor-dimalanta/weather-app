@@ -1,36 +1,36 @@
-# shak-vue-weatherapp
-https://shakweather.netlify.com/
+# weather-app
+Weather App using weatherappAPI and FoursquareAPI
 
-## Project setup
-```
+# branching
+
+There are two main branch master and develop to create a feature
+
+- branch out to develop
+- then merge again to develop
+- develop to master
+
+# about this project
+
+Created with new VueJS and using Weather Map API and Foursquare API
+
+# developer
+
+This project is developed by Viktor Angelo Dimalanta a fullstack software developer and certified Scrum Master
+
+# install dependencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# serve with hot reload at localhost:8080
+npm run dev
 
-### Compiles and minifies for production
-```
+# build for production with minification
 npm run build
-```
 
-### Run your tests
-```
-npm run test 
-```
+# build for production
+npm run build --report
 
-### Lints and fixes files
-```
-npm run lint
-```
+# API Key
+Create Api Key from OpenWeatherMap.
+Enter the key on the line below in src/store/store.js
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"#simple vue weather app" 
+Thanks and Enjoy!
